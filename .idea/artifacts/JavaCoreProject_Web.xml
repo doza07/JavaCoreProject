@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaCoreProject:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaCoreProject_Web</output-path>
+    <root id="archive" name="JavaCoreProject_Web.war">
+      <element id="artifact" artifact-name="JavaCoreProject:Web exploded" />
+    </root>
+  </artifact>
+</component>
